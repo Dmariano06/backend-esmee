@@ -1,5 +1,6 @@
+com\csi\esmee\demo\CorsConfig$WebConfig.class
+com\csi\esmee\demo\model\Tableau.class
 com\csi\esmee\demo\repository\TableauRepository.class
 com\csi\esmee\demo\CorsConfig.class
 com\csi\esmee\demo\DemoApplication.class
 com\csi\esmee\demo\service\TableauService.class
-com\csi\esmee\demo\model\Tableau.class
